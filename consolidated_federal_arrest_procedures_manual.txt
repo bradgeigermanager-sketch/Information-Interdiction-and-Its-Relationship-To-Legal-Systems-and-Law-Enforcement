@@ -1,0 +1,251 @@
+**Consolidated Federal Arrest Procedures Manual**
+ -meergING the doctrines of:
+
+- **DOJ Justice Manual (JM)**
+- **DOJ Criminal Resource Manual (CRM)**
+- **FBI DIOG (public version)**
+- **FLETC Arrest & Control doctrine**
+- **CBP Use‑of‑Force & Arrest Policy**
+- **ICE ERO arrest procedures**
+- **ATF arrest/search/seizure directives**
+- **USMS fugitive apprehension & warrant service policy**
+- **COPS Office constitutional policing standards**
+
+---
+
+# 📘 **CONSOLIDATED FEDERAL ARREST PROCEDURES MANUAL**  
+*(Synthesized from DOJ, FBI, DHS, ATF, USMS, and FLETC doctrine)*
+
+---
+
+# **SECTION I — LEGAL FOUNDATIONS**
+
+## **1. Constitutional Authority**
+All federal arrests must comply with:
+
+- **Fourth Amendment** — no unreasonable searches or seizures  
+- **Fifth Amendment** — self‑incrimination protections (Miranda)  
+- **Sixth Amendment** — right to counsel  
+- **Fourteenth Amendment** — due process and equal protection  
+
+**Core DOJ Principle:**  
+Arrests must be objectively reasonable, supported by lawful authority, and executed with respect for civil rights.
+
+---
+
+## **2. Probable Cause Standard**
+Across all agencies (DOJ, FBI, DHS, ATF, USMS):
+
+- Probable cause exists when facts would lead a reasonable officer to believe a crime has been committed.
+- Hunches, intuition, or uncorroborated tips are insufficient.
+- Probable cause must be articulable and documented.
+
+**DOJ CRM:** Probable cause is the “constitutional threshold” for any arrest.
+
+---
+
+## **3. Arrest Warrants**
+### **When Required**
+- Entry into a private residence  
+- Arrests for non‑felony offenses outside officer presence  
+- Situations lacking exigent circumstances  
+
+### **Exceptions (all agencies)**
+- Exigent circumstances  
+- Hot pursuit  
+- Public‑place felony arrests  
+- Immediate threat to life or evidence  
+
+**USMS & FBI:** Warrant service must include knock‑and‑announce unless exception applies.
+
+---
+
+# **SECTION II — OPERATIONAL PROCEDURES**
+
+## **4. Pre‑Arrest Planning**
+Common across FBI, ATF, USMS, DHS:
+
+- Confirm identity of suspect  
+- Verify warrant validity (if applicable)  
+- Conduct risk assessment (weapons, associates, environment)  
+- Assign roles (contact officer, cover officer, arresting officer)  
+- Establish communications plan  
+- Coordinate with local agencies if needed  
+
+**FLETC doctrine:** Planning reduces force likelihood and increases officer safety.
+
+---
+
+## **5. Approach & Contact**
+### **General Rules**
+- Use the least confrontational approach consistent with safety  
+- Maintain situational awareness  
+- Identify yourself as law enforcement  
+- Provide clear, lawful commands  
+
+**CBP & ICE:** Officers must display credentials unless unsafe.
+
+---
+
+## **6. Use‑of‑Force Standards**
+All federal agencies follow a **force continuum**:
+
+1. Officer presence  
+2. Verbal commands  
+3. Soft control techniques  
+4. Hard control techniques  
+5. Intermediate weapons  
+6. Deadly force  
+
+**DOJ Deadly Force Policy (applies to FBI, DEA, ATF, USMS):**  
+Deadly force only when necessary to prevent imminent death or serious physical injury.
+
+**CBP:** Must consider totality of circumstances and avoid creating unnecessary jeopardy.
+
+---
+
+## **7. Arrest Execution**
+### **Steps**
+- Communicate intent to arrest  
+- Control hands immediately  
+- Apply restraints properly  
+- Search incident to arrest (within legal limits)  
+- Monitor subject for medical distress  
+
+**FLETC:** Handcuffing must be double‑locked and checked for fit.
+
+---
+
+## **8. Miranda Requirements**
+Miranda applies when BOTH conditions are met:
+
+- **Custody**  
+- **Interrogation**
+
+Officers must:
+
+- Deliver the warning clearly  
+- Ensure comprehension  
+- Document invocation or waiver  
+
+**FBI DIOG:** Agents must stop questioning immediately if rights are invoked.
+
+---
+
+# **SECTION III — SPECIALIZED FEDERAL GUIDANCE**
+
+## **9. High‑Risk Arrests**
+(USMS, FBI, ATF)
+
+- Use tactical teams when risk is elevated  
+- Conduct pre‑raid briefing  
+- Use less‑lethal options when feasible  
+- Prioritize safety of bystanders  
+
+---
+
+## **10. Warrant Service**
+(USMS lead doctrine)
+
+- Verify address  
+- Knock‑and‑announce unless exception  
+- Use dynamic entry only when justified  
+- Maintain perimeter security  
+
+---
+
+## **11. Immigration‑Related Arrests**
+(ICE ERO)
+
+- Administrative warrants differ from criminal warrants  
+- Arrests in sensitive locations require supervisory approval  
+- Documentation must include alienage and removability basis  
+
+---
+
+## **12. Border‑Area Arrests**
+(CBP)
+
+- Officers have extended authority within 100 miles of border  
+- Still must meet constitutional standards  
+- Use‑of‑force policy identical to DOJ deadly‑force rules  
+
+---
+
+# **SECTION IV — POST‑ARREST PROCEDURES**
+
+## **13. Transport & Custody**
+All agencies require:
+
+- Search of vehicle before and after transport  
+- Seat‑belt use for detainee  
+- Constant monitoring  
+- Immediate medical attention if needed  
+
+---
+
+## **14. Booking & Documentation**
+- Document probable cause  
+- Record Miranda administration  
+- Log evidence  
+- Notify prosecutors  
+- Complete arrest report promptly  
+
+**DOJ JM:** Accuracy and completeness are essential for admissibility.
+
+---
+
+# **SECTION V — CIVIL RIGHTS & ACCOUNTABILITY**
+
+## **15. Prohibited Conduct**
+- Racial profiling  
+- Excessive force  
+- Coercive interrogation  
+- Retaliatory arrest  
+- Fabrication of evidence  
+
+**COPS Office:** Agencies must maintain bias‑free policing policies.
+
+---
+
+## **16. Required Reporting**
+- Use‑of‑force reports  
+- Injuries to officers or subjects  
+- Property damage  
+- Civil rights complaints  
+
+---
+
+# **SECTION VI — TRAINING & PROFESSIONAL STANDARDS**
+
+## **17. Mandatory Training Areas**
+(FLETC baseline + DOJ requirements)
+
+- Constitutional law  
+- Arrest & control  
+- De‑escalation  
+- Firearms  
+- Defensive tactics  
+- Crisis intervention  
+- Cultural competency  
+
+---
+
+# **SECTION VII — QUICK REFERENCE CHECKLIST**
+
+### **Before Arrest**
+- Probable cause established  
+- Warrant verified (if needed)  
+- Risk assessment completed  
+
+### **During Arrest**
+- Identify as law enforcement  
+- Use minimal necessary force  
+- Control hands  
+- Restrain safely  
+
+### **After Arrest**
+- Miranda (if interrogating)  
+- Search incident to arrest  
+- Transport safely  
+- Document everything  
